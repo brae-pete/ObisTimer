@@ -1,2 +1,2 @@
 # ObisTimer
-Computer controll over Obis Coherent Connection Lasers
+Computer control over Obis Coherent Connection Lasers
